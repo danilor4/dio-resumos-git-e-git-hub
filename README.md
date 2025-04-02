@@ -18,5 +18,5 @@ Repositórios para armazenar resumos sobre Git e Github do Curso Versionamento D
 git init 
 
 ## Referencias
-[Digital innovation one]().
+[Digital innovation one]()..
 
